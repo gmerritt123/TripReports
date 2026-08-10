@@ -1,3 +1,5 @@
 # TripReports
-Hosting of Trip Reports
-[Temag 2025](Temag2025.md)
+
+[Temagami 2025](Temag2025.md)
+
+[La Cloche 2025](LaCloche2025.md)
