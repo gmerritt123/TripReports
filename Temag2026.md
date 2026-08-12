@@ -9,13 +9,13 @@ Day 1: Mountain Chutes to Mendelsohn Lake, 26 km, 1 portage (0.2 km worth), ~5 h
 
 Depart Jamie's backyard campsite in Temagami around 8:30 AM after a solid breakfast at Temagami Shores. 
 
-<img width="985" height="1313" alt="image" src="https://github.com/user-attachments/assets/b09578c1-94f4-433e-a6bd-835a21e3bf6e" />
+<img src="https://github.com/user-attachments/assets/b09578c1-94f4-433e-a6bd-835a21e3bf6e" alt="image" style="width:100%; height:auto;">
 
 Access point was easy/straightforward. Due to last minute reconfig (much sadly missing Malcolm now), our 7 now 6 person setup included a solo boat (primarily piloted by Lance), Patte's tandem boat (primarily Patte + Greg) and Jasper, myself and Matt packed into my 16 foot boat, w middle canoe guy (usually Matt) sitting on top of a pack. Not ideal but way she goes.
 
 On the water by about 10:30 am, easy paddle down Montreal River (really like a long lake here) to Spray Creek, which took us about 1:45, with a few beaver dams to liftover and a short portage but nothing crazy. Reached the campsites on the far end of Mendelsohn by about 3:30 pm. Campsite is C+ tier. Good swimming, firepit, and view, but no thunderbox and limited tent space. 
 
-<img width="2000" height="1500" alt="image" src="https://github.com/user-attachments/assets/ed34b677-e01d-4c29-926d-32377ae2dc5a" />
+<img src="https://github.com/user-attachments/assets/ed34b677-e01d-4c29-926d-32377ae2dc5a" alt="image" style="width:100%; height:auto;">
 
 Had a glorious swim, set up tarp and gathered dry firewood as rain overnight was forecast. There was a grill in past years but it had gone missing, so I ended up pan frying massive steaks over the fire, roasting a bell pepper or two, and reheating a bunch of precooked potatoes in a pot as well.
 
@@ -24,10 +24,10 @@ Day 2: Mendelsohn Lake to Tupper Lake, 24 km, 15 portages (5.6 km worth), ~7.5 h
 
 Solid rain overnight but woke up to clearing skies. Breakfast of coffee, real eggs and sourdough bread. On the water around 9 am. Day started with a gruelling 2 km portage from Mendelsohn to Skull Lake, which was largely destroyed by a 2018 forest fire and hasn't seen much maintenance since. Tonnes of fallen trees and overgrowth make it almost a full bushwack at times. We had done this one before at least so knew what we were getting into. After Skull Lake we headed south via the "overland" route, thinking the creek route option would be jammed full of deadfall. The overland route is essentially hops/skips over a collection of small ponds and a bunch of short portages also destroyed by the 2018 fire. A lot of loading/unloading and bushwacking. We made our way through that section and reached Anvil Lake, where we stopped for a quick lunch and decided to push on to Tupper Lake at the foot of Maple Mountain, which would mean we wouldn't have to break camp the next day and all we'd have planned is a short paddle across Tupper to summit Maple Mountain. We reached the same campsite we stayed on in years prior, which gets a solid A- tier rating from me: limited tent space, half decent swimming, amazing firepit/sitting area and view of Maple Mountain. 
 
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/1190f707-1e86-4b8e-a750-3d2726abd8b2" />
+<img src="https://github.com/user-attachments/assets/1190f707-1e86-4b8e-a750-3d2726abd8b2" alt="image" style="width:100%; height:auto;">
 Tupper L Camp
 
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/7915d57e-92db-4114-a800-1b8170e17631" />
+<img src="https://github.com/user-attachments/assets/7915d57e-92db-4114-a800-1b8170e17631" alt="image" style="width:100%; height:auto;">
 Maple Mountain View
 
 Overall it was a very tough day, especially with relatively full food barrels. Dinner of sausages on the fire and ~9 pm bedtime.
@@ -37,9 +37,9 @@ Day 3: Maple Mountain, 8 km hike, 2 km paddle, ~3.5 hours
 
 Breakfast of coffee, instant hash browns, rehydrated eggs, and summer sausage. It was overall a super chill recovery day, climbing Maple Mountain for an awesome view of Lady Evelyn Lake etc.
 
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/7a956f9d-0d7a-4bd7-a6da-348d59d61104" />
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/15e79a8f-508c-4dd4-8ff1-f6be1720e649" />
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/b663ba8a-1634-485c-b3d1-0409ba9c1f66" />
+<img src="https://github.com/user-attachments/assets/7a956f9d-0d7a-4bd7-a6da-348d59d61104" alt="image" style="width:100%; height:auto;">
+<img src="https://github.com/user-attachments/assets/15e79a8f-508c-4dd4-8ff1-f6be1720e649" alt="image" style="width:100%; height:auto;">
+<img src="https://github.com/user-attachments/assets/b663ba8a-1634-485c-b3d1-0409ba9c1f66" alt="image" style="width:100%; height:auto;">
 
 Blueberries up there this year were okay, nothing crazy (I think we arrived post peak), but we managed to pick a few bags worth to augment our oatmeal/pancakes for the rest of the trip. The other interesting thing is that the sketchy ladder near the summit is gone, and a the trail reroute "around" that cliff/climby part has been made the preferred route. So naturally we went up that way but descended via the old climby way :-D . Back at the campsite we spent the afternoon relaxing, swimming and napping on the Tupper Lake campsite. Dinner of risotto and smoked salmon (mmmm) and in bed by 8:30 pm.
 
@@ -48,13 +48,13 @@ Day 4: Tupper Lake to Bridal Veil Falls, 20 km, 10 portages (2.5 km worth), ~5.5
 
 Breakfast of coffee and blueberry pancakes. I took a lovely shift in the solo boat at the start of the day, paddling the first half of the day to the infamous Centre Falls Portage, featuring the Golden Staircase, which is basically a scramble with a canoe on your head. We stopped for a quick snack/lunch at Centre Falls (such a beaut of a spot). 
 
-<img width="2000" height="1500" alt="image" src="https://github.com/user-attachments/assets/25954ba7-4a7e-4360-a8ae-3269da9e7ae5" />
+<img src="https://github.com/user-attachments/assets/25954ba7-4a7e-4360-a8ae-3269da9e7ae5" alt="image" style="width:100%; height:auto;">
 
 Then continued to work our way up the rest of the notoriously difficult Trout Streams portages. We reached Katherine Lake (formerly Dividing Lake, where the Trout Streams splits off the main channel of the Lady Evelyn River). Having ascended the Trout Streams, we made a "left" to head down the Lady Evelyn, a few portages (including the one past Cabin Falls where Hap Wilson's ecolodge is on the other side of the river), to reach the bonafide S Tier Bridal Veil Campsite around 1-2 pm. Amazing swim at Bridal Veil. 
 
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/19a8f015-cd16-4b24-ba19-a98a350cb0aa" />
+<img src="https://github.com/user-attachments/assets/19a8f015-cd16-4b24-ba19-a98a350cb0aa" alt="image" style="width:100%; height:auto;">
 
-<img width="985" height="1313" alt="image" src="https://github.com/user-attachments/assets/8f83ae14-7642-4899-8315-3f6af1201c04" />
+<img src="https://github.com/user-attachments/assets/8f83ae14-7642-4899-8315-3f6af1201c04" alt="image" style="width:100%; height:auto;">
 
 Anticlimactically, Matt cut his foot pretty badly here, stepping on a sharp rock while walking around in barefeet at the base of the falls, which put a bit of a damper on his enthusiasm levels, now having to worry about infection/healing. Utilizing the first aid kit and gorilla tape he was able to get it clean and "stuck together" mimicking what stitches should do. We also resolved to keep his foot dry for 2-3 days to hopefully limit infection potential. After setting up camp and having a nice swim, most of us napped (I took an epic nap in Matt's hammock, oh my god I was on another planet). There were some amazingly peaceful "heaven on earth" spots to just sit by the rapid in your camp chair and read, which we all did as well. Dinner was the legendary Annies mac and cheese meal, which consists of a box of annie's mac each, plus frying up jalapenos, bell peppers, onion and Summer sausage, *and* also melting in about half a block of supplemental cheese. My favourite meal of the trip. As usual early bed for early start in the morning.
 
@@ -63,9 +63,9 @@ Day 5: Bridal Veil Falls to South End of Lady Evelyn Lake, 20 km, 7 portages (4 
 
 Breakfast of coffee, oatmeal, maple syrup, blueberries, and honey roasted nuts. Day started with a series of difficult Lady Evelyn River portages, including the plank of doom on Bridal Veil and the tight squeeze at Fat Man's Falls. Making things more difficult was keeping Matt's foot dry, which Jasper and I managed but meant we had to take on more loading/unloading duties, but we managed fine. After descending the Lady Evelyn, we reached the "two miler" portage, a 3.2 km portage I had done before - long but not technical. After powering through it we ran into some Park rangers/wardens on the other side, who were doing portage maintenance. There was some trepidation about the upcoming 3.2 km portage, which we had on the docket a few days from now, as we knew it was in the same burn area as the Mendelsohn-Skull portage and could potentially be in even worse shape. So I asked the rangers if they knew anything about the state of it and they told me they cut it about two weeks ago and they almost ran out of chainsaw gas doing it. Fantastic news, because it meant that portage would likely be in relatively great shape. After the portage we loaded up the canoes and paddled the length of Diamond Lake and headed north across the Lady Evelyn Falls portage, arriving at an absolutely massive S Tier campsite on a long point on the south shore of Lady Evelyn. Matt and I camped out right out on the point with an amazing view of the stars.
 
-<img width="985" height="1313" alt="image" src="https://github.com/user-attachments/assets/33764de8-1138-44aa-9028-07ecdf881245" />
+<img src="https://github.com/user-attachments/assets/33764de8-1138-44aa-9028-07ecdf881245" alt="image" style="width:100%; height:auto;">
 
-<img width="1751" height="1313" alt="image" src="https://github.com/user-attachments/assets/916ce11d-691d-481f-a402-d9298d97659b" />
+<img src="https://github.com/user-attachments/assets/916ce11d-691d-481f-a402-d9298d97659b" alt="image" style="width:100%; height:auto;">
 
 I precooked a tonne of hash browns to speed up camp break the next day, as we had a fair bit of paddling to do followed by doing the trout streams portages all over again. Dinner of risotto and summer sausage and in bed super super early.
 
@@ -73,11 +73,11 @@ Day 6: South End of Lady Evelyn Lake to Shangri La Campsite on Lady Evelyn River
 -------------------------------------------
 
 Up well before dawn to make breakfast of coffee, hash browns, rehydrated eggs and summer sausage. On the water by 7 am, amazingly efficient camp break. Started raining about 2 hours into our travel day but was super warm with no wind, no raincoats necessary. The day started with ~17 km of paddle, across Lady Evelyn Lake, Willow Island, and Sucker Gut Lakes, with only two short portages. I got a nice shift in paddling with Patte here. Then back up the Trout Streams portages to Katherine Lake. The portages up this time were notably more treacherous because it was wet now. Had another short snack/lunch break at Centre Falls, then we worked out way up the rest of the portages, reaching Katherine Lake by ~noon. At far end of Katherine Lake we pulled over to chat with Hap Wilson, who was waiting for float plane to pickup Ecolodge guests. The intel gathered from Hap was that the alternative to the 3.2 km portage to Makobe i.e. graymud lake would be muddy and brutal this time of year, and that the Makobe River would be very bony and we'd be walking canoes down it. So with that info we resolved that the next day we'd definitely do the 3.2 km portage from Gray's River over to Makobe Lake, as the Park Rangers had confirmed it was cleared, and the alternative sounded like a potential mud disaster. After a quick chat with Hap we paddled onto the Shangri La campsite which was legitimately A, maybe S Tier on the side of a beautiful rapid, but the weather turned much wetter so we scrambled to set up the tarp, gather dry firewood and get tents set up. 
-<img width="2000" height="1500" alt="image" src="https://github.com/user-attachments/assets/6bfc52c3-2cf9-4b8d-ae02-fc5b34527d4f" />
+<img src="https://github.com/user-attachments/assets/6bfc52c3-2cf9-4b8d-ae02-fc5b34527d4f" alt="image" style="width:100%; height:auto;">
 
 It rained off and on the rest of the afternoon and evening. 
 
-<img width="1751" height="1313" alt="image" src="https://github.com/user-attachments/assets/77f43b81-5a17-43ba-951d-c0fecccf6762" />
+<img src="https://github.com/user-attachments/assets/77f43b81-5a17-43ba-951d-c0fecccf6762" alt="image" style="width:100%; height:auto;">
 
 Of course, Matt decided to do laundry on the day it rained so we'd for sure have nice wet clothes to put on the next day. Thanks.
 
@@ -94,7 +94,7 @@ We reached Makobe lake at the end of the portage and it was absolutely gorgeous:
 
 I give the 5th falls campsite a solid A tier: good firepit, good thunderbox, amazing rapid view/white noise machine with good swimming, the only things keeping it from S tier was a lack of amazing tent spots and no obvious/easy jump/dive off swim spots (good swimming at the base of the rapid, just shallow).
 
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/c2c79993-5f66-4125-8a1c-58afe7459a57" />
+<img src="https://github.com/user-attachments/assets/c2c79993-5f66-4125-8a1c-58afe7459a57" alt="image" style="width:100%; height:auto;">
 
 We set up camp quickly and heated up a big pot of chile with sourdough bread, which had actually kept wonderfully well on the trip (doubled the salt content when I baked them). At this point we discussed tomorrow's plan as well: since we had pushed an extra ~8-9 km today, tomorrow would only be ~20 km and then final day about 23 km. There were only two potential campsites according to our map: we decided we'd stay if the campsites were good, otherwise we'd put in a mega day and get back to the cars. Had a beauty sleep under the stars.
 
@@ -103,7 +103,7 @@ Day 8 Fifth Falls to Mountain Chutes, 43 km, "11" portages (2.9 km worth), ~9.5 
 
 Woke and made coffee + oatmeal. Beaut Sunrise looking downriver.
 
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/9ebe1e05-af89-46c9-b433-18c7a9d72faa" />
+<img src="https://github.com/user-attachments/assets/9ebe1e05-af89-46c9-b433-18c7a9d72faa" alt="image" style="width:100%; height:auto;">
 
 Efficiently broke camp and continued our way down the Makobe River. On paper we had 11 portages but we knew if it was anything like yesterday we'd be "half skipping" them by walking canoe down, running them, or some hybrid version. Our canoes took a pretty big beating scraping on rocks but only Patte's seemed to be really taking structural damage: my epoxy/gelcoat was scratched to absolute hell but by the end of the trip I only found kevlar exposed in 4 spots: both ends near the keel, on solid chip on the bottom, and another really high scrape/gouge near the gunnel that I can distinctly remember causing. Patte's boat on the other hand needed some gorilla tape as a few of his DIY fibreglass patches were chipping/flaking off and he was taking on water as a result. Lance's boat seemed to be taking the least beating, simply due to having way, way less draft than our boats. We made our way down river and arrived at the two potential campsites shortly after noon: the first one was C tier, affected by the 2018 forest fire, and the second one was effectively non-existent. So that sealed our fate of doing a massive second day in a row and pushing back to the cars at Mountain Chutes. We skipped/waded the rapid the second campsite was supposed to be, then went into the second set, supposed to be ~600 m.
 
@@ -129,8 +129,8 @@ The portaging setup was a little tricky because of the solo paddler, who sometim
 
 Our canoes definitely took a beating going down the Makobe and a tougher whitewater boat would have been nice to have then/ but post trip my "kevlar fusion" prospector was really only in need of a fresh epoxy layer + a couple marine gelcoats: a couple hours of maintenance effort and she's ready for the next trip, no worse for wear, actually kind of remarkable when you consider the scrapes she took, often under a very high payload (Matt+Jasper+Me+Packs was well north of 650 lbs, solidly above the recommended load range). 
 
-<img width="985" height="1313" alt="image" src="https://github.com/user-attachments/assets/80d1ad79-4c0a-444c-b5c5-6d4c2e25e3f3" />
-<img width="985" height="1313" alt="image" src="https://github.com/user-attachments/assets/64e3aaa1-509e-4418-9ca0-da1169898317" />
+<img src="https://github.com/user-attachments/assets/80d1ad79-4c0a-444c-b5c5-6d4c2e25e3f3" alt="image" style="width:100%; height:auto;">
+<img src="https://github.com/user-attachments/assets/64e3aaa1-509e-4418-9ca0-da1169898317" alt="image" style="width:100%; height:auto;">
 
 Canoe overhaul before/after
 
